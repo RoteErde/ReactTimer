@@ -1,0 +1,22 @@
+
+.divTimer{
+    margin: 5%;
+    margin-top: 10%;
+    margin-bottom: 5%;
+}
+
+.divComponentCenter{
+    text-align: center;
+    margin: 0 auto;
+}
+
+.divComponentRight{
+    float: right;
+    margin-right: 10%;
+    margin-top: 10%
+}
+
+#appbody > h1 {
+    text-align: center;
+    margin: 0 auto;
+}
